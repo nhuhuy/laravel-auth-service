@@ -1,6 +1,6 @@
 {
     "name": "nhuhuy/auth-service",
-    "description": ":package_description",
+    "description": "laravel-auth-service",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,9 @@
     "homepage": "https://github.com/nhuhuy/authservice",
     "keywords": ["Laravel", "AuthService"],
     "require": {
-        "illuminate/support": "~5|~6"
+        "illuminate/support": "~5|~6",
+        "spatie/data-transfer-object": "^1.9",
+        "laravel/passport": "^7.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
