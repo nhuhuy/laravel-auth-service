@@ -41,5 +41,6 @@
                 "AuthService": "nhuhuy\\AuthService\\Facades\\AuthService"
             }
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
