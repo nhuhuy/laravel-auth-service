@@ -1,12 +1,12 @@
 {
     "name": "nhuhuy/authservice",
     "description": ":package_description",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "Nguyen Nhu Huy",
+            "email": "nhuhuy25@gmail.com",
+            "homepage": "https://github.com/nhuhuy"
         }
     ],
     "homepage": "https://github.com/nhuhuy/authservice",
